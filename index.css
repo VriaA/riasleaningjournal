@@ -307,9 +307,13 @@ footer {
 
 @media (min-width: 1024px) {
 
-    h1, .nav-links, .home-hero-date, .post-text, .info-text, .post-date {
+    h1, .nav-links, .home-hero-date, .post-text, .post-date {
         font-size: 1rem;
         line-height: 1.5;
+    }
+
+    .info-text {
+        font-size: 1rem;
     }
 
     .about-hero-img, .about-hero-text, .about-hero-title {
